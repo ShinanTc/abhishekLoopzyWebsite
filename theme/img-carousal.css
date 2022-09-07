@@ -36,13 +36,8 @@ input[type=radio] {
 }
 
 .card > img {
-  height: 23em;
+  height: 18em;
   object-position: top;
-}
-
-.card > img::nth-child(3) {
-  height: 23em;
-  object-position: center;
 }
 
 .img-carousal {
