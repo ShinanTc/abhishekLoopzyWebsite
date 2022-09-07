@@ -40,6 +40,10 @@ input[type=radio] {
   object-position: top;
 }
 
+#song-2 > img {
+  object-fit: center;
+}
+
 .img-carousal {
   width: 100%;
   max-width: 800px;
